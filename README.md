@@ -16,6 +16,6 @@ This project builds a word-level Markov chain from a body of text and uses it to
 ### Project Structure
 ### Installation
 ```bash
-git clone https://github.com/your-username/Text-Generation-with-Markov-Chains.git
+git clone https://github.com/akash-g07/PRODIGY_GA_03.git
 cd Text-Generation-with-Markov-Chains
 python markov_chain.py
